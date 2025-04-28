@@ -10,6 +10,8 @@
 
 **GitHub Repository :** [https://github.com/moemyamyintzu3/moodmosaic_app.git](https://github.com/moemyamyintzu3/moodmosaic_app.git)
 
+**Installation File (APK) :** [Download MoodMosaic APK](upload_apk/app-release.apk)
+
 ## 1. App Concept and Design
 
 ### 1.1 User Personas
@@ -130,27 +132,27 @@ Open App → Home Screen → Tap "Add Mood" → Select Mood + (Optional) Write N
 - Result: “Led to the concept of a simple mood tracker with emoji selection and optional notes”
 ---
 
-### 5.2 UI Design  
+### 5.2 UI Layout Prompt  
 - Prompt: “How to create a beautiful gradient background and rounded button design in Flutter”
 - Result: “Helped build a modern, aesthetic UI with smooth page transitions and soft colors”
 
 
 ---
 
-### 5.3 Code Help  
+### 5.3 Code Writing Prompt  
 - Prompt: “navigate between multiple screens using Navigator”
 - Result: “Used base navigation logic for moving between Home, Add Mood, and Mood History screens”
 
 ---
 
-### 5.4 Debugging  
+### 5.4 DDebug Prompt 
 - Prompt: “failed to push due to unrelated histories and authentication issues”
 - Result: “Identified pull strategies, merged local and remote branches successfully, and pushed code to GitHub”
 
 
 ---
 
-### 5.5 Deployment  
+### 5.5 Deployment Prompt 
 - Prompt: “How to generate APK file in Flutter and install it manually on Android”
 - Result: “Successfully built and tested the APK file on a real Android device”
 
